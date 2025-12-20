@@ -1,0 +1,18 @@
+site_name: rkumar1990 Blog
+site_url: https://rkumar1990.github.io
+
+nav:
+  - Home: index.md
+  - Blog: blog/index.md
+
+plugins:
+  - blog:
+      path: blog/posts
+      template_index: blog/index.md
+
+theme:
+  name: material  # Optional: modern theme
+
+markdown_extensions:
+  - toc:
+      permalink: true
