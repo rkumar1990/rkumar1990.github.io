@@ -15,7 +15,6 @@ Repository in a GitHub is similar to a folder that you create at your local mach
 #### Creating GitHub repository online
 
 Complete the following steps to create repository in GitHub directly.
-
 &nbsp;	
 
 1. Go to https://github.com/, if you don't have an existing account then complete the Sign up to create an account. Otherwise, use your login credentials to Sign in into the account.
