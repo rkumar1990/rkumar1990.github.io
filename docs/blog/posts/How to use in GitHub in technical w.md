@@ -1,4 +1,4 @@
-# How to use in GitHub in technical writing?
+# How to use GitHub in technical writing?
 
 
 
@@ -31,11 +31,10 @@ Before you clone repository to your local machine, you need to create folder in 
    
 1. Create a folder at your local machine.
 2. Select folder, right-click and click **Git Bash Here**.
-   Git Bash App starts.
-   ![Git Bash App](image-1.png)
-3. Go to your remote GitHub account and repository space that you want to clone.
-4. From the **Code** detail, copy the repository url such as gh repo clone <reponame>>.github.io
-![alt text](image-2.png)
+      
+4. Go to your remote GitHub account and repository space that you want to clone.
+5. From the **Code** detail, copy the repository url such as gh repo clone <reponame>>.github.io
+   
 
 
 
