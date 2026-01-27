@@ -24,7 +24,7 @@ Complete the following steps to create repository in GitHub directly:
    Create a new repository page appears.
 3. In the Repository name, enter the desired name, fill in optional fields in General and Configuration sections, otherwise, you can fill in those    later as well. Click **Create repository**.	
    A new repository is created.
-   ![sample Repository](image.png)
+   ![sample Repository](images/image.png)
 
 ### How to clone repository?
 Before you clone repository to your local machine, you need to create folder in which this repository would live.
