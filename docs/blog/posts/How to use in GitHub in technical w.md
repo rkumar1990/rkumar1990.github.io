@@ -14,7 +14,7 @@ Repository in a GitHub is similar to a folder that you create at your local mach
 
 #### Creating GitHub repository online
 
-Complete the following steps to create repository in GitHub directly.
+Complete the following steps to create repository in GitHub directly:
 
 &nbsp;	
 
@@ -22,8 +22,25 @@ Complete the following steps to create repository in GitHub directly.
    
 2. In the header, click the plus(**+**) at right-side of the header, select **New repository** from the list.
    Create a new repository page appears.
-3. In the Repository name, enter the desired name, fill in optional fields in General and Configuration sections, otherwise, you can fill in those later as well. Click **Create repository**.	
+3. In the Repository name, enter the desired name, fill in optional fields in General and Configuration sections, otherwise, you can fill in those    later as well. Click **Create repository**.	
    A new repository is created.
+   ![sample Repository](image.png)
+
+### How to clone repository?
+Before you clone repository to your local machine, you need to create folder in which this repository would live.
+   
+1. Create a folder at your local machine.
+2. Select folder, right-click and click **Git Bash Here**.
+   Git Bash App starts.
+   ![Git Bash App](image-1.png)
+3. Go to your remote GitHub account and repository space that you want to clone.
+4. From the **Code** detail, copy the repository url such as gh repo clone <reponame>>.github.io
+![alt text](image-2.png)
+
+
+
+
+
    		
 
 
