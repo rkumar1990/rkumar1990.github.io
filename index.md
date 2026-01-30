@@ -4,7 +4,7 @@ This is my personal site for technical writing guides and tutorials.
 
 ## Latest Posts
 
-- [How to Become a Technical Writer](docs/blog/posts/%23%20How%20to%20Become%20a%20Technical%20Writer.md)
+- [How to Become a Technical Writer](docs/blog/posts/How-to-Become-a-Technical-Writer.md)
 - [How to Use GitHub in Technical Writing](docs/blog/posts/How%20to%20use%20in%20GitHub%20in%20technical%20w.md)
 
 *More posts coming soon!*
