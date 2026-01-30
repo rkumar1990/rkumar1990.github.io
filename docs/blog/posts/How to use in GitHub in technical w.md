@@ -1,46 +1,47 @@
-# How to use GitHub in technical writing?
+# How to Use GitHub in Technical Writing
 
+GitHub is a version control platform that helps you manage your documentation and source files with version control. For example, if you store your project files only on your local machine, accessing them from different locations becomes difficult. By hosting your files on GitHub, you can access your documentation from anywhere with an internet connection and collaborate with other writers.
 
+## How to Create a GitHub Repository?
 
-GitHub is a version control software that lets you develop and manage your project work with semantic versioning approach. For example, if you have created a project and keeping your source file at your local machine, that becomes sometime difficult to manage as you can't access it online when required. Keeping your source files at GitHub scales your project and you can access it from any location with an internet connection.
+A repository in GitHub is similar to a folder on your local machine. It contains all files and subfolders relevant to your project. You can create a repository in two ways:
 
+1. Create it directly on GitHub's website.
+2. Create a project folder locally and push it to GitHub using Git Bash or GitHub Desktop.
 
+### Creating a GitHub Repository Online
 
-### How to create a GitHub repository?
+Follow these steps to create a repository directly on GitHub:
 
-Repository in a GitHub is similar to a folder that you create at your local machine. It keeps all the subfolders relevant to a project inside it. There are two ways to create a repository in GitHub. One way is to directly create a repo online by accessing your GitHub account. Otherwise, create the project folder at your local and later you can push that to remote GitHub server by using Git bash or Git UI interface.
+1. Go to https://github.com/. If you don't have an account, click **Sign up** to create one. Otherwise, click **Sign in** with your credentials.
 
-
-
-#### Creating GitHub repository online
-
-Complete the following steps to create repository in GitHub directly:
-
-&nbsp;	
-
-1. Go to https://github.com/, if you don't have an existing account then complete the Sign up to create an account. Otherwise, use your login credentials to Sign in into the account.
+2. In the header, click the plus (**+**) icon on the right side and select **New repository** from the dropdown menu.
    
-2. In the header, click the plus(**+**) at right-side of the header, select **New repository** from the list.
-   Create a new repository page appears.
-3. In the Repository name, enter the desired name, fill in optional fields in General and Configuration sections, otherwise, you can fill in those    later as well. Click **Create repository**.	
-   A new repository is created.
-   ![sample Repository](image.png)
+   The **Create a new repository** page appears.
 
-### How to clone repository?
-Before you clone repository to your local machine, you need to create folder in which this repository would live.
+3. Enter your desired repository name in the **Repository name** field. Fill in optional fields under the **General** and **Configuration** sections (you can update these later if needed).
+
+4. Click **Create repository**.
    
-1. Create a folder at your local machine.
-2. Select folder, right-click and click **Git Bash Here**.
-      
-4. Go to your remote GitHub account and repository space that you want to clone.
-5. From the **Code** detail, copy the repository url such as gh repo clone <reponame>>.github.io
-   
+   Your new repository is now created.
 
+![Sample Repository](image.png)
 
+## How to Clone a Repository?
 
+Cloning creates a local copy of a remote repository on your machine. Before cloning, create a folder where the repository will be stored.
 
+1. Create a folder on your local machine where you want to clone the repository.
 
-   		
+2. Navigate to that folder, right-click, and select **Git Bash Here**.
 
+3. Go to your GitHub repository page in your browser.
 
+4. Click the **Code** button and copy the repository URL (it will look like `https://github.com/username/reponame.git`).
 
+5. In Git Bash, paste the command:
+   ```bash
+   git clone https://github.com/username/reponame.git
+   ```
+
+6. Press Enter. The repository is now cloned to your local folder.
