@@ -25,7 +25,7 @@ Follow these steps to create a repository directly on GitHub:
    
    Your new repository is now created.
 
-![Sample Repository](image.png)
+![Sample Repository](images/image.png)
 
 ## How to Clone a Repository?
 
