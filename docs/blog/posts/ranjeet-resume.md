@@ -1,6 +1,6 @@
 RANJEET KUMAR  
 Technical Writer | 11 Years of Experience  
-Phone: 9990897004 | Email: ranjeet.kumar267@gmail.com  
+Email: ranjeet.kumar267@gmail.com  
 Location: India  
 
 ## Profile Summary  
