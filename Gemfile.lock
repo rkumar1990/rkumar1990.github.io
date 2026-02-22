@@ -43,7 +43,7 @@ GEM
       sass-embedded (~> 1.75)
     jekyll-seo-tag (2.7.1)
       jekyll (>= 3.8, < 5.0)
-    jekyll-theme-leap-day (0.2.0)
+    jekyll-theme-cayman (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
     jekyll-watch (2.2.1)
@@ -75,6 +75,7 @@ GEM
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
+    wdm (0.2.0)
     webrick (1.9.2)
 
 PLATFORMS
@@ -84,8 +85,9 @@ DEPENDENCIES
   bigdecimal
   csv
   jekyll (~> 4.4)
-  jekyll-theme-leap-day
+  jekyll-theme-cayman
   liquid (~> 4.0)
+  wdm (>= 0.1.0)
 
 CHECKSUMS
   addressable (2.8.8) sha256=7c13b8f9536cf6364c03b9d417c19986019e28f7c00ac8132da4eb0fe393b057
@@ -104,7 +106,7 @@ CHECKSUMS
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
   jekyll-seo-tag (2.7.1) sha256=838bcc05d9f0b342f50a1cea19b8fc99f9728910da99203cd75cccea6139513b
-  jekyll-theme-leap-day (0.2.0) sha256=921ea8305ae0285a881c9aa9dbe2375ed6f404b4f90067458e596891ef5ac7d1
+  jekyll-theme-cayman (0.2.0) sha256=3c5f14f9c72a8eb03ecc74f9a3e5ecbbc55f9381339978b42dec216921865f2a
   jekyll-watch (2.2.1) sha256=bc44ed43f5e0a552836245a54dbff3ea7421ecc2856707e8a1ee203a8387a7e1
   json (2.18.1) sha256=fe112755501b8d0466b5ada6cf50c8c3f41e897fa128ac5d263ec09eedc9f986
   kramdown (2.3.1) sha256=59e938cfa42a3d6169b295727fe09c4c91d742336c8fbd1042529f4db664ab49
@@ -124,6 +126,7 @@ CHECKSUMS
   sass-embedded (1.97.3-x64-mingw-ucrt) sha256=72994dcfacc0559789a3624c78c5fa66962379bb8d8c0d6dea85906c5b6e66ee
   terminal-table (1.8.0) sha256=13371f069af18e9baa4e44d404a4ada9301899ce0530c237ac1a96c19f652294
   unicode-display_width (1.8.0) sha256=0292132d364d59fcdd83f144910c48b3c8332b28a14c5c04bb093dd165600488
+  wdm (0.2.0) sha256=c46d9dcb6d375199ca07465bc67669ee8f041aeaa55dd7dafe6de4dd97b27647
   webrick (1.9.2) sha256=beb4a15fc474defed24a3bda4ffd88a490d517c9e4e6118c3edce59e45864131
 
 BUNDLED WITH

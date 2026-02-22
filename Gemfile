@@ -6,7 +6,9 @@ gem 'jekyll', '~> 4.4'
 gem 'liquid', '~> 4.0'
 gem 'csv'
 gem 'bigdecimal'
-gem 'jekyll-theme-leap-day'
+gem 'jekyll-theme-cayman'
+# Speed up file watching on Windows
+gem 'wdm', '>= 0.1.0'
 # Commented out GitHub Pages gem to allow newer Jekyll/Liquid locally.
 # If you want GitHub Pages compatibility, uncomment the next line and remove the
 # explicit `jekyll`/`liquid` pins.
