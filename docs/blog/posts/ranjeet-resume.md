@@ -1,3 +1,8 @@
+---
+title: Ranjeet Resume
+layout: default
+---
+
 RANJEET KUMAR  
 Technical Writer | 11 Years of Experience  
 Email: ranjeet.kumar267@gmail.com  

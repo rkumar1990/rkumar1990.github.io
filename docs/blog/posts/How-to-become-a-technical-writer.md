@@ -1,3 +1,8 @@
+---
+title: How to become a technical writer
+layout: default
+---
+
 # How to become a technical writer
 
 Technical writing is a rewarding career that combines communication skills with technical knowledge. If you're interested in explaining complex concepts clearly, this guide will help you get started.
