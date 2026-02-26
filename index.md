@@ -8,8 +8,9 @@ layout: default
 		<h1 class="welcome-title">Technical Writing, Made Practical</h1>
 		<p class="welcome-subtitle">Guides, templates, and real-world patterns for writers shipping documentation that ships product value.</p>
 		<div class="welcome-actions">
+			<a class="btn" href="portfolio.html">View Portfolio</a>
 			<a class="btn" href="docs/blog/posts/index.html">Explore all posts</a>
-			<a class="btn" href="docs/blog/posts/ranjeet-resume.html">View resume</a>
+			<a class="btn" href="about.html">About Me</a>
 		</div>
 	</div>
 	<div class="welcome-card">
@@ -24,8 +25,18 @@ layout: default
 </section>
 
 <section>
-	<h2>Latest Posts</h2>
+	<h2>Featured</h2>
 	<div class="welcome-grid">
+		<article class="welcome-tile">
+			<span class="chip">Portfolio</span>
+			<h3><a href="portfolio.html">Work Samples & Portfolio</a></h3>
+			<p>Explore my API documentation, user guides, and technical writing samples across multiple industries.</p>
+		</article>
+		<article class="welcome-tile">
+			<span class="chip">API Documentation</span>
+			<h3><a href="docs/blog/posts/rest-api-guides/How-to-document-REST-API-endpoints.html">REST API Documentation Series</a></h3>
+			<p>Complete guide to documenting POST, GET, UPDATE, and DELETE endpoints with real examples.</p>
+		</article>
 		<article class="welcome-tile">
 			<span class="chip">Career</span>
 			<h3><a href="docs/blog/posts/How-to-become-a-technical-writer.html">How to become a technical writer</a></h3>
@@ -35,11 +46,6 @@ layout: default
 			<span class="chip">Workflow</span>
 			<h3><a href="docs/blog/posts/How-to-use-GitHub-in-technical-writing.html">How to use GitHub in technical writing</a></h3>
 			<p>Learn the repo-first workflow that keeps docs scalable and collaborative.</p>
-		</article>
-		<article class="welcome-tile">
-			<span class="chip">Profile</span>
-			<h3><a href="docs/blog/posts/ranjeet-resume.html">Ranjeet Resume</a></h3>
-			<p>Experience, tools, and projects across telecom, storage, and insurance.</p>
 		</article>
 	</div>
 </section>

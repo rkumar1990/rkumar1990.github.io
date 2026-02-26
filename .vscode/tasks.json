@@ -1,0 +1,33 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build Jekyll site",
+			"type": "shell",
+			"command": "bundle",
+			"args": [
+				"exec",
+				"jekyll",
+				"build"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Update Midnight Theme Gem",
+			"type": "shell",
+			"command": "bundle",
+			"args": [
+				"update",
+				"jekyll-theme-midnight"
+			]
+		},
+		{
+			"label": "Install Gems",
+			"type": "shell",
+			"command": "bundle",
+			"args": [
+				"install"
+			]
+		}
+	]
+}
