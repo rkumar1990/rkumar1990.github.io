@@ -1,6 +1,8 @@
 ---
 title: How to document GET endpoints
-layout: default
+layout: post
+date: 2026-01-23
+tags: [api documentation, rest api, get endpoint, http methods]
 ---
 
 # How to document GET endpoints

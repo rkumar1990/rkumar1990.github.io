@@ -7,7 +7,6 @@ layout: default
 
 ### Workflows & Processes
 
-- [Implementing Doc-as-Code Workflow with GitHub](Implementing-doc-as-code-workflow-with-GitHub.html)
 - [How to use GitHub in technical writing](How-to-use-GitHub-in-technical-writing.html)
 
 ### API Documentation

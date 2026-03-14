@@ -1,6 +1,8 @@
 ---
 title: How to document REST API endpoints
-layout: default
+layout: post
+date: 2026-01-20
+tags: [api documentation, rest api, technical writing, developer docs]
 ---
 
 # How to document REST API endpoints

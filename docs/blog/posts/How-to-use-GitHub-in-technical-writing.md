@@ -1,6 +1,8 @@
 ---
 title: How to use GitHub in technical writing
-layout: default
+layout: post
+date: 2026-02-10
+tags: [github, technical writing, workflow, version control, documentation]
 ---
 
 # How to Use GitHub in technical writing

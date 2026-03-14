@@ -1,6 +1,8 @@
 ---
 title: How to document DELETE endpoints
-layout: default
+layout: post
+date: 2026-01-25
+tags: [api documentation, rest api, delete endpoint, http methods]
 ---
 
 # How to document DELETE endpoints

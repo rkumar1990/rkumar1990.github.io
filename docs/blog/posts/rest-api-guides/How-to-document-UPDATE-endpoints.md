@@ -1,6 +1,8 @@
 ---
 title: How to document UPDATE endpoints
-layout: default
+layout: post
+date: 2026-01-24
+tags: [api documentation, rest api, update endpoint, http methods]
 ---
 
 # How to document UPDATE endpoints

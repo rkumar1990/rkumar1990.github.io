@@ -1,6 +1,8 @@
 ---
 title: How to document POST endpoints
-layout: default
+layout: post
+date: 2026-01-22
+tags: [api documentation, rest api, post endpoint, http methods]
 ---
 
 # How to document POST endpoints

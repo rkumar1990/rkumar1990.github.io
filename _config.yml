@@ -1,1 +1,26 @@
 theme: jekyll-theme-cayman
+title: "Ranjeet Kumar - Technical Writer"
+description: "Documentation, API Guides, and Technical Content"
+author: "Ranjeet Kumar"
+url: "https://rkumar1990.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+
+# Collections
+defaults:
+  - scope:
+      path: "docs/blog/posts"
+      type: "pages"
+    values:
+      layout: "post"

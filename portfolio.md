@@ -31,21 +31,6 @@ A comprehensive series covering how to document REST API endpoints with real-wor
 
 ## Tutorials
 
-### Doc-as-Code Implementation
-
-**[Implementing Doc-as-Code Workflow with GitHub](docs/blog/posts/Implementing-doc-as-code-workflow-with-GitHub.html)**
-
-A practical, experience-based guide to implementing doc-as-code workflows using GitHub. Covers repository setup, automation, team onboarding, and real challenges faced during implementation—written from 11 years of hands-on experience.
-
-**Skills demonstrated:**
-- Process documentation
-- Doc-as-Code workflows
-- GitHub Actions and CI/CD
-- Team training and change management
-- Real-world problem-solving
-
----
-
 ### Breaking into Technical Writing
 
 **[How to become a technical writer](docs/blog/posts/How-to-become-a-technical-writer.html)**

@@ -1,6 +1,8 @@
 ---
 title: How to become a technical writer
-layout: default
+layout: post
+date: 2026-01-15
+tags: [technical writing, career, guide, skills]
 ---
 
 # How to become a technical writer
