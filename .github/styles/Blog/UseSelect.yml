@@ -1,0 +1,9 @@
+extends: existence
+message: "Use 'select' instead of '%s' for UI actions"
+level: error
+ignorecase: true
+tokens:
+  - click
+  - clicking
+  - clicks
+  - clicked

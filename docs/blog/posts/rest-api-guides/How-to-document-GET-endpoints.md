@@ -13,12 +13,12 @@ The GET operation retrieves data from the server for the requested parameter.
 
 For each GET endpoint, include:
 
-1. **Purpose**: What data is returned.
-2. **Method and URL**: For example, `GET /api/v1/users/{id}`.
-3. **Authentication and headers**: Token requirements and optional headers.
-4. **Path and query parameters**: Names, types, defaults, and validation rules.
-5. **Pagination and sorting**: Structure and supported query options.
-6. **Success and error responses**: Typical `200`, `400`, `401`, `404` payloads.
+1. **Purpose** - What data is returned
+2. **Method and URL** - For example, `GET /api/v1/users/{id}`
+3. **Authentication and headers** - Token requirements and optional headers
+4. **Path and query parameters** - Names, types, defaults, and validation rules
+5. **Pagination and sorting** - Structure and supported query options
+6. **Success and error responses** - Typical `200`, `400`, `401`, `404` payloads
 
 ## Example: Get users list
 

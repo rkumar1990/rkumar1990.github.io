@@ -1,0 +1,15 @@
+extends: substitution
+message: "Use '%s' instead of '%s'"
+level: warning
+ignorecase: true
+swap:
+  login: sign in
+  log in: sign in
+  logout: sign out
+  log out: sign out
+  application: app
+  e-mail: email
+  user name: username
+  web site: website
+  Internet: internet
+  Web: web

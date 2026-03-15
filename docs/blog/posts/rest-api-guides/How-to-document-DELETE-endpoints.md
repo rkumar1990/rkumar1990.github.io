@@ -7,18 +7,18 @@ tags: [api documentation, rest api, delete endpoint, http methods]
 
 # How to document DELETE endpoints
 
-The DELETE operation remove resources from the database.
+The DELETE operation removes resources from the database.
 
 ## What to document for DELETE endpoints
 
 For each DELETE endpoint, include:
 
-1. **Purpose**: Whether deletion is permanent or reversible.
-2. **Method and URL**: For example, `DELETE /api/v1/users/{id}`.
-3. **Authentication and authorization**: Who is allowed to delete.
-4. **Delete model**: Hard delete vs soft delete behavior.
-5. **Idempotency**: What happens if clients call DELETE multiple times.
-6. **Success and error responses**: Typical `204`, `403`, `404`, `409`.
+1. **Purpose** - Whether deletion is permanent or reversible
+2. **Method and URL** - For example, `DELETE /api/v1/users/{id}`
+3. **Authentication and authorization** - Who can delete
+4. **Delete model** - Hard delete vs. soft delete behavior
+5. **Idempotency** - What happens if clients call DELETE multiple times
+6. **Success and error responses** - Typical `204`, `403`, `404`, `409`
 
 ## Example: Delete a user
 

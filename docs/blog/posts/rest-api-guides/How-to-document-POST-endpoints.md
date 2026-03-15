@@ -7,18 +7,18 @@ tags: [api documentation, rest api, post endpoint, http methods]
 
 # How to document POST endpoints
 
-POST endpoints create resources, so your documentation must clearly describe required fields, validation rules, and failure behavior.
+POST endpoints create resources. Your documentation must clearly describe required fields, validation rules, and failure behavior.
 
 ## What to document for POST endpoints
 
 For each POST endpoint, include:
 
-1. **Purpose**: What resource gets created.
-2. **Method and URL**: For example, `POST /api/v1/users`.
-3. **Authentication and headers**: Required token and `Content-Type`.
-4. **Request body schema**: Field name, type, required status, and validation.
-5. **Success response**: Usually `201 Created` with created resource payload.
-6. **Validation and error responses**: Common `400`, `401`, and `409` patterns.
+1. **Purpose** - What resource gets created
+2. **Method and URL** - For example, `POST /api/v1/users`
+3. **Authentication and headers** - Required token and `Content-Type`
+4. **Request body schema** - Field name, type, required status, and validation
+5. **Success response** - Usually `201 Created` with created resource payload
+6. **Validation and error responses** - Common `400`, `401`, and `409` patterns
 
 ## Example: Create a new user
 

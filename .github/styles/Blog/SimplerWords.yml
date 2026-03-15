@@ -1,0 +1,20 @@
+extends: substitution
+message: "Use simpler alternative: '%s' instead of '%s'"
+level: suggestion
+ignorecase: true
+swap:
+  utilize: use
+  leverage: use
+  commence: start
+  terminate: end
+  demonstrate: show
+  endeavor: try
+  facilitate: help
+  implement: do
+  initiate: start
+  subsequent: next
+  sufficient: enough
+  additional: more
+  numerous: many
+  acquire: get
+  modify: change

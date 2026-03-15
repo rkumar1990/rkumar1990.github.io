@@ -1,0 +1,7 @@
+extends: existence
+message: "Use active voice instead of passive. Consider revising '%s'"
+level: warning
+ignorecase: true
+tokens:
+  - '\b(is|are|was|were|be|been|being)\s+\w+ed\b'
+  - '\b(is|are|was|were)\s+(given|sent|shown|used|created|updated|deleted|provided|required|performed)\b'

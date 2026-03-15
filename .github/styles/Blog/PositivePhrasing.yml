@@ -1,0 +1,11 @@
+extends: existence
+message: "Use positive phrasing. Replace '%s' with a positive alternative"
+level: suggestion
+ignorecase: true
+tokens:
+  - "don't forget"
+  - "do not forget"
+  - "don't overlook"
+  - "can't be"
+  - "won't work unless"
+  - "never use"

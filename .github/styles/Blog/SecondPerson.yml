@@ -1,0 +1,5 @@
+extends: existence
+message: "Use second person (you) to address readers directly"
+level: suggestion
+tokens:
+  - '\b(one can|one should|one must|users can|users should|developers can|the user can|the developer can)\b'

@@ -1,0 +1,14 @@
+extends: existence
+message: "Avoid jargon or technical terms without explanation: '%s'"
+level: suggestion
+ignorecase: true
+tokens:
+  - 'utilize'
+  - 'leverage'
+  - 'synergy'
+  - 'paradigm'
+  - 'robust'
+  - 'granular'
+  - 'deep dive'
+  - 'circle back'
+  - 'touch base'

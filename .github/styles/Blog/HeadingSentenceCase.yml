@@ -1,0 +1,31 @@
+extends: capitalization
+message: "Headings should use sentence case"
+level: warning
+scope: heading
+match: $sentence
+exceptions:
+  - GitHub
+  - API
+  - REST
+  - GET
+  - POST
+  - PUT
+  - DELETE
+  - PATCH
+  - JSON
+  - URL
+  - HTTP
+  - HTTPS
+  - OAuth
+  - SQL
+  - NoSQL
+  - AWS
+  - Azure
+  - DevOps
+  - JavaScript
+  - TypeScript
+  - Python
+  - Ruby
+  - PowerShell
+  - Jekyll
+  - Markdown

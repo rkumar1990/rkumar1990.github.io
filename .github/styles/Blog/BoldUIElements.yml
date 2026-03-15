@@ -1,0 +1,7 @@
+extends: existence
+message: "Use bold formatting for UI elements: buttons, menus, field names"
+level: suggestion
+ignorecase: true
+tokens:
+  - '\b(button|menu|field|option|tab|checkbox|dialog|window)\b(?!\*\*)'
+scope: text

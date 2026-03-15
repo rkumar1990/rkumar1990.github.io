@@ -7,27 +7,27 @@ tags: [api documentation, rest api, technical writing, developer docs]
 
 # How to document REST API endpoints
 
-Clear API documentation helps developers understand your endpoints quickly and integrate it to their system. A good REST API guide should be easy to scan, consistent, and practical.
+Clear API documentation helps developers understand your endpoints quickly and integrate them into their systems. A good REST API guide should be easy to scan, consistent, and practical.
 
 ## Why REST API documentation matters
 
-- Reduces back and forth  between developers and support teams
+- Reduces back-and-forth communication between developers and support teams
 - Speeds up integration for internal and external consumers
-- Improves reliability by clarifying required fields and expalian errors in detail.  
+- Improves reliability by clarifying required fields and explaining errors in detail
 
 ## What to include for each endpoint
 
 For every endpoint, include these core sections:
 
-1. **Endpoint summary**: What the endpoint does for a user.
-2. **Method and URL**: For example, `GET /api/v1/users/{id}`.
-3. **Authentication**: API key, OAuth token, or no auth required.
+1. **Endpoint summary** - What the endpoint does for a user
+2. **Method and URL** - For example, `GET /api/v1/users/{id}`
+3. **Authentication** - API key, OAuth token, or no auth required
 4. **Request parameters**:
    - Path parameters
    - Query parameters
    - Headers
-5. **Request body**: Required and optional fields with data types.
-6. **Response examples**: Success and failure responses.
+5. **Request body** - Required and optional fields with data types
+6. **Response examples** - Success and failure responses
 7. **Status codes**: Meaning of codes such as 200, 400, 401, 404, 500.
 8. **Error model**: Standard error format with sample payload.
 

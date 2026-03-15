@@ -1,0 +1,5 @@
+extends: existence
+message: "Consider using a contraction for a more conversational tone"
+level: suggestion
+tokens:
+  - '\b(do not|does not|did not|will not|cannot|should not|would not|could not|is not|are not|was not|were not|have not|has not|had not)\b'

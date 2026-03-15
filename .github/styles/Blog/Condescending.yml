@@ -1,0 +1,7 @@
+extends: existence
+message: "Avoid '%s' - it can sound condescending"
+level: suggestion
+ignorecase: true
+tokens:
+  - simply
+  - just

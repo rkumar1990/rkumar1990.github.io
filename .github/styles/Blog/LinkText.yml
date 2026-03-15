@@ -1,0 +1,9 @@
+extends: existence
+message: "Avoid vague link text like '%s'. Use descriptive text instead"
+level: warning
+ignorecase: true
+tokens:
+  - '\[click here\]'
+  - '\[here\]'
+  - '\[this link\]'
+  - '\[read more\]'

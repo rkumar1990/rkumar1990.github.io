@@ -7,18 +7,18 @@ tags: [api documentation, rest api, update endpoint, http methods]
 
 # How to document UPDATE endpoints
 
-The UPDATE operation change existing resources and its data in the database.
+The UPDATE operation changes existing resources and their data in the database.
 
 ## What to document for UPDATE endpoints
 
 For each UPDATE endpoint, include:
 
-1. **Purpose**: What gets updated.
-2. **Method and URL**: `PUT` for full replace, `PATCH` for partial update.
-3. **Authentication and headers**: Token plus conditional headers if used.
-4. **Updatable fields**: Explicitly list mutable and immutable fields.
-5. **Validation and business rules**: Field constraints and prohibited transitions.
-6. **Success and conflict responses**: Typical `200`, `204`, `400`, `404`, `409`.
+1. **Purpose** - What gets updated
+2. **Method and URL** - `PUT` for full replace, `PATCH` for partial update
+3. **Authentication and headers** - Token plus conditional headers if used
+4. **Updatable fields** - Explicitly list mutable and immutable fields
+5. **Validation and business rules** - Field constraints and prohibited transitions
+6. **Success and conflict responses** - Typical `200`, `204`, `400`, `404`, `409`
 
 ## Example: Update user role
 

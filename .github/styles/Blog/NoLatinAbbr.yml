@@ -1,0 +1,10 @@
+extends: existence
+message: "Avoid Latin abbreviations like '%s'. Use plain English instead"
+level: warning
+ignorecase: true
+tokens:
+  - '\be\.g\.'
+  - '\bi\.e\.'
+  - '\betc\.'
+  - '\bviz\.'
+  - '\bcf\.'

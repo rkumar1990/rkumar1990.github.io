@@ -1,0 +1,6 @@
+extends: existence
+message: "Don't use 'please' in instructions"
+level: warning
+ignorecase: true
+tokens:
+  - please

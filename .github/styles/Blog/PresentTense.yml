@@ -1,0 +1,15 @@
+extends: existence
+message: "Use present tense instead of future tense. Change '%s' to present tense"
+level: suggestion
+ignorecase: true
+tokens:
+  - 'will be'
+  - 'will have'
+  - 'will open'
+  - 'will display'
+  - 'will show'
+  - 'will appear'
+  - 'will create'
+  - 'will run'
+  - 'will start'
+  - 'will enable'
