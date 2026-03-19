@@ -58,6 +58,23 @@ A repository-first workflow guide showing how technical writers can leverage Git
 
 ---
 
+## Technical Guides & Long-Form Content
+
+### Cloud Infrastructure Deep Dive
+
+**[Complete Guide to Cloud Hosting](docs/blog/posts/Complete-guide-to-cloud-hosting.html)**
+
+A comprehensive 3,000+ word guide covering cloud hosting fundamentals, major providers (AWS, Azure, GCP), architecture patterns, security best practices, and cost optimization strategies.
+
+**Skills demonstrated:**
+- Long-form technical content
+- Cloud architecture concepts
+- Conversational yet authoritative tone
+- Real-world examples and scenarios
+- Beginner-to-intermediate audience adaptation
+
+---
+
 ## Professional Experience Highlights
 
 ### Documentation Types I've Created
