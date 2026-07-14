@@ -47,5 +47,10 @@ layout: default
 			<h3><a href="docs/blog/posts/How-to-use-GitHub-in-technical-writing.html">How to use GitHub in technical writing</a></h3>
 			<p>Learn the repo-first workflow that keeps docs scalable and collaborative.</p>
 		</article>
+		<article class="welcome-tile">
+			<span class="chip">AI & Knowledge Systems</span>
+			<h3><a href="docs/blog/posts/How-to-set-up-a-RAG-pipeline-for-documentation-using-GitHub-OpenAI-and-LangChain.html">How to set up a RAG pipeline for documentation using GitHub, OpenAI, and LangChain</a></h3>
+			<p>Set up a documentation assistant that retrieves grounded answers from your GitHub content.</p>
+		</article>
 	</div>
 </section>
