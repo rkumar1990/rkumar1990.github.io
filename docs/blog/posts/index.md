@@ -5,6 +5,10 @@ layout: default
 
 # Blog Posts
 
+### AI & Knowledge Systems
+
+- [How to set up a RAG pipeline for documentation using GitHub, OpenAI, and LangChain](How-to-set-up-a-RAG-pipeline-for-documentation-using-GitHub-OpenAI-and-LangChain.html)
+
 ### Workflows & Processes
 
 - [How to use GitHub in technical writing](How-to-use-GitHub-in-technical-writing.html)
