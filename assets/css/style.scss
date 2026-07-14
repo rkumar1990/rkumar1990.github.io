@@ -600,12 +600,14 @@ html[data-theme="dark"] .theme-toggle .moon-icon {
 .post-content pre {
   position: relative;
   margin: 1.5rem 0;
+  padding: 1.25rem 12rem 1.25rem 1.25rem;
 }
 
 .copy-code-btn {
   position: absolute;
   top: 0.75rem;
   right: 0.75rem;
+  z-index: 2;
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.2);
   color: #ffffff;
@@ -839,6 +841,15 @@ html[data-theme="dark"] .theme-toggle .moon-icon {
 
   .toc-list {
     font-size: 0.85rem;
+  }
+
+  .post-content pre {
+    padding: 1rem 1rem 1rem 1rem;
+  }
+
+  .copy-code-btn {
+    top: 0.6rem;
+    right: 0.6rem;
   }
 
   .toc-list a {
