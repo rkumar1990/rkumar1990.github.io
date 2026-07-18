@@ -13,6 +13,7 @@ layout: default
 ### Workflows & Processes
 
 - [How to use GitHub in technical writing](How-to-use-GitHub-in-technical-writing.html)
+- [How to set up docs as code using GitHub and CI/CD pipelines](How-to-set-up-docs-as-code-using-GitHub-and-CI-CD-pipelines.html)
 
 ### API Documentation
 
