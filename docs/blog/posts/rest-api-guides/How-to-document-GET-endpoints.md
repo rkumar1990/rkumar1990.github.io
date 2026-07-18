@@ -5,8 +5,6 @@ date: 2026-01-23
 tags: [api documentation, rest api, get endpoint, http methods]
 ---
 
-# How to document GET endpoints
-
 The GET operation retrieves data from the server for the requested parameter.
 
 ## What to document for GET endpoints

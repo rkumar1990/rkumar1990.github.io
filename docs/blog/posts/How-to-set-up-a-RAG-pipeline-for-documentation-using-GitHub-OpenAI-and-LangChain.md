@@ -5,8 +5,6 @@ date: 2026-07-14
 tags: [rag, github, openai, langchain, documentation, ai]
 ---
 
-# How to set up a RAG pipeline for documentation using GitHub, OpenAI, and LangChain
-
 Retrieval-augmented generation, or RAG, helps you build documentation assistants that answer questions from your own content instead of guessing from general model knowledge. For technical writers and documentation teams, that matters because your source of truth usually lives in Markdown files, diagrams, release notes, and API references. A RAG pipeline can turn that content into a searchable knowledge base that stays close to your published docs.
 
 This guide shows you how to build a practical documentation RAG pipeline with three common building blocks:

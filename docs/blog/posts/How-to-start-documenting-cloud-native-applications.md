@@ -5,8 +5,6 @@ date: 2026-07-18
 tags: [cloud native, documentation, kubernetes, microservices, docs as code]
 ---
 
-# Help doc: Getting started with documenting cloud-native applications
-
 Cloud-native applications move fast. Services are distributed, deployments are frequent, and teams are often cross-functional. If documentation is not planned with the same discipline as engineering, users and operators quickly lose context.
 
 This help doc gives you a practical starting point for documenting cloud-native applications in a way that is useful, maintainable, and realistic for teams shipping continuously.

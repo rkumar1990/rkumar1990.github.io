@@ -5,8 +5,6 @@ date: 2026-01-25
 tags: [api documentation, rest api, delete endpoint, http methods]
 ---
 
-# How to document DELETE endpoints
-
 The DELETE operation removes resources from the database.
 
 ## What to document for DELETE endpoints

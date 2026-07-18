@@ -5,8 +5,6 @@ date: 2026-07-18
 tags: [documentation strategy, personas, information architecture, layered documentation]
 ---
 
-# Knowledge Base: Creating Persona-Based Journey Pages for Layered Documentation
-
 **Category:** Documentation Strategy  
 **Audience:** Technical Writers, Information Architects, Documentation Managers
 

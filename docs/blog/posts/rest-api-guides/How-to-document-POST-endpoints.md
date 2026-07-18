@@ -5,8 +5,6 @@ date: 2026-01-22
 tags: [api documentation, rest api, post endpoint, http methods]
 ---
 
-# How to document POST endpoints
-
 POST endpoints create resources. Your documentation must clearly describe required fields, validation rules, and failure behavior.
 
 ## What to document for POST endpoints

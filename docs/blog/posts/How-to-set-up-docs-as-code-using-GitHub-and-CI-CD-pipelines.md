@@ -5,8 +5,6 @@ date: 2026-07-18
 tags: [docs as code, github, ci cd, documentation, pipeline]
 ---
 
-# How to set up docs as code using GitHub and CI/CD pipelines
-
 If your documentation still lives in scattered files, email threads, or one-off edits, you are not alone. Most teams start there. The problem appears later, when updates become slow, reviewers miss changes, and readers lose trust because the docs do not match the product.
 
 Docs as code solves this by treating documentation like software: versioned, reviewed, tested, and published through an automated pipeline.

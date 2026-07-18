@@ -5,8 +5,6 @@ date: 2026-01-20
 tags: [api documentation, rest api, technical writing, developer docs]
 ---
 
-# How to document REST API endpoints
-
 Clear API documentation helps developers understand your endpoints quickly and integrate them into their systems. A good REST API guide should be easy to scan, consistent, and practical.
 
 ## Why REST API documentation matters

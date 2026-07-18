@@ -5,8 +5,6 @@ date: 2026-02-10
 tags: [github, technical writing, workflow, version control, documentation]
 ---
 
-# How to use GitHub in technical writing
-
 GitHub is a version control platform that helps you manage your documentation and source files. If you store your project files only on your local machine, accessing them from different locations is difficult. By hosting your files on GitHub, you can access your documentation from anywhere with an internet connection and collaborate with other writers.
 
 ## Create a GitHub repository

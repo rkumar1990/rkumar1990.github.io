@@ -5,8 +5,6 @@ date: 2026-01-24
 tags: [api documentation, rest api, update endpoint, http methods]
 ---
 
-# How to document UPDATE endpoints
-
 The UPDATE operation changes existing resources and their data in the database.
 
 ## What to document for UPDATE endpoints
