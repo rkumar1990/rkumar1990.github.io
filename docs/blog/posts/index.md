@@ -14,6 +14,7 @@ layout: default
 
 - [How to use GitHub in technical writing](How-to-use-GitHub-in-technical-writing.html)
 - [How to set up docs as code using GitHub and CI/CD pipelines](How-to-set-up-docs-as-code-using-GitHub-and-CI-CD-pipelines.html)
+- [Help doc: Getting started with documenting cloud-native applications](How-to-start-documenting-cloud-native-applications.html)
 
 ### API Documentation
 
