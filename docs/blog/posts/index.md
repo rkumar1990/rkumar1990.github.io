@@ -8,6 +8,7 @@ layout: default
 ### AI & Knowledge Systems
 
 - [How to set up a RAG pipeline for documentation using GitHub, OpenAI, and LangChain](How-to-set-up-a-RAG-pipeline-for-documentation-using-GitHub-OpenAI-and-LangChain.html)
+- [Creating Persona-Based Journey Pages for Layered Documentation](Creating-Persona-Based-Journey-Pages-for-Layered-Documentation.html)
 
 ### Workflows & Processes
 
