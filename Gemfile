@@ -8,7 +8,7 @@ gem 'csv'
 gem 'bigdecimal'
 gem 'jekyll-theme-cayman'
 # Speed up file watching on Windows
-gem 'wdm', '>= 0.1.0'
+gem 'wdm', '>= 0.1.0', platforms: [:windows]
 # Commented out GitHub Pages gem to allow newer Jekyll/Liquid locally.
 # If you want GitHub Pages compatibility, uncomment the next line and remove the
 # explicit `jekyll`/`liquid` pins.
